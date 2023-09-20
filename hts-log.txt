@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Sep 2023 04:01:33 at https://themesflat.co/html/cyfoniihtml/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://themesflat.co/html/cyfoniihtml/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.co/html/cyfoniihtml/ -O1 "C:\Users\SOC\Desktop\ammar\ammar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://themesflat.co/html/cyfoniihtml/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/background/bg-banner.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/icon/Line.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/background/bg-banner-2.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/layouts/pattern.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/background/join.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/background/recent.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/background/recent-2.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/assets/images/background/watch.png (from https://themesflat.co/html/cyfoniihtml/app/dist/app.css)
+04:03:38	Error: 	"Not Found" (404) at link https://themesflat.co/html/cyfoniihtml/author02.html (from https://themesflat.co/html/cyfoniihtml/nft.html)
+04:03:38	Error: 	"Forbidden" (403) at link https://themesflat.co/html/cyfoniihtml/app/dist/ (from https://themesflat.co/html/cyfoniihtml/help-center.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 5 seconds : 148 links scanned, 137 files written (23504144 bytes overall) [21179292 bytes received at 169434 bytes/sec], 3835084 bytes transferred using HTTP compression in 55 files, ratio 18%, 21.1 requests per connection
+(10 errors, 0 warnings, 0 messages)
